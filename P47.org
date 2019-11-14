@@ -26,7 +26,7 @@ proper channels which in this case is GitHub.
 If you feel that you need support in knowing when enough is enough, 
 then here are guidelines:
 
-For each thing that you find, rate its severity on a scale $1--3$.
+For each thing that you find, rate its severity on a scale $1-3$.
 There is no objective scale, so here are some examples.
 
 | Severity | Example                                                                           |
